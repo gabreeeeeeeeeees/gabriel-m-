@@ -1,5 +1,6 @@
 body{
-    background-color: #ffffff;
+    background-color: 
+    #ffffff;
 }
 .pag-inicial{
     text-align: center;
@@ -19,4 +20,22 @@ body{
 .botão a:hover{
     color: #ff0101;
 
+}
+body.CADASTRO{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: black;
+    margin-top: 250px;
+
+}
+.CADASTRO a{
+    color: #ffffff;
+
+}
+.CADASTRO a:hover{
+    color: #ff0101;
+}
+
+.body.padina{
+    background-color: black;
 }
