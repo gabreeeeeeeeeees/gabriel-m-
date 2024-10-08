@@ -1,6 +1,6 @@
 body{
     background-color: 
-    #ffffff;
+    #8a8a8a;
 }
 .pag-inicial{
     text-align: center;
@@ -25,7 +25,7 @@ body.CADASTRO{
     text-align: center;
     color: rgb(255, 255, 255);
     background-color: black;
-    margin-top: 250px;
+    margin-top: 2s00px;
 
 }
 .CADASTRO a{
@@ -34,12 +34,4 @@ body.CADASTRO{
 }
 .CADASTRO a:hover{
     color: #ff0101;
-}
-
-.img3x3{
-    background-color: black;
-}
-
-img#perfil{
-    border-radius: 100%;
 }
