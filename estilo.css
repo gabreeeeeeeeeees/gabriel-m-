@@ -36,6 +36,20 @@ body.CADASTRO{
     color: #ff0101;
 }
 
-.body.padina{
-    background-color: black;
+body.pagina{
+    background-color: #000000;
+    text-align: center;
+    font-size: 50px;
+}
+.fiba img{
+margin-top: 100px;
+width: 600px;
+}
+.perfil img{
+    display: flex;
+    border-radius: 100%;
+    width: 100px;
+}
+.perfil{
+    background-color: #000000;
 }
