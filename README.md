@@ -14,11 +14,11 @@ Esse repositório está está implementado o sitema do site 3x3, que é um site 
 ### Clonar repositório do Github
 1. Abra o Visual Studio Code e clique no botão "Controle de código de fonte"
 
-![imagem 01](img/Imagem%2001.png)
+![imagem 01](static/img/Imagem%2001.png)
 
 2. Clique em "Clonar Repositório", "Clonar de Github" e Clique em "Permitir" na janela que vai aparecer
 
-![imagem 02](img/Imagem%2002.png)
+![imagem 02](static/img/Imagem%2002.png)
 
 3. Faça o login, autorize o Visual Code e deois "Abrir Link" para abrir novamente o programa.
 
