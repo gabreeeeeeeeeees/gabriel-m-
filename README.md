@@ -25,3 +25,18 @@ Esse repositório está está implementado o sitema do site 3x3, que é um site 
 4. Escolha o repositório do projeto para clonar 
 
 5. Deseja abrir o ropositório clonado? Abrir
+
+### Instalar a biblioteca do Python 
+1. Clique em "Extensões" no menu a esquerda ou CRTL+SHIT+X
+2. Procure por "Python"
+3. Clique em "Instalar"
+
+### Instalar a biblioteca Flask
+1. Abrir um novo terminal: Barra de ferramentas > Três pontinhos > Terminal > Novo terminal
+
+2. Digite o comando ``pip install flask --user" e pressione enter`
+
+### Configurando Git
+`git config user.name seu_usuario` 
+
+`git config user.email seu_nome@email.com`
